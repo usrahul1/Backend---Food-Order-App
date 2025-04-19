@@ -13,7 +13,7 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=  
 CLOUDINARY_API_SECRET=  
 
-uses neon postgresql.
+uses neon postgresql btw.  
 steps to follow : 
 1) create neon postgresql and get all the details .
 2) add all the keys and stuff to the .env file as in format given above.
