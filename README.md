@@ -4,14 +4,14 @@ Back-end for veggies/fruits/anything stuff,
 created using pern stack.
 
 can be integrated with an env containing following 
-PGHOST=
-PGDATABASE=
-PGUSER=
-PGPASSWORD=
-JWT_SECRET=
-CLOUDINARY_CLOUD_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
+PGHOST=  
+PGDATABASE=  
+PGUSER=  
+PGPASSWORD=  
+JWT_SECRET=  
+CLOUDINARY_CLOUD_NAME=  
+CLOUDINARY_API_KEY=  
+CLOUDINARY_API_SECRET=  
 
 uses neon postgresql.
 steps to follow : 
