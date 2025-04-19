@@ -1,0 +1,21 @@
+### 🛍️ Product APIs
+
+#### 📥 Public (for everyone)
+- `GET /api/products` — Fetch the product catalogue.  done
+
+#### 🔐 Admin Only
+- `POST /api/products` — Add a new product.     done
+- `PUT /api/products/:id` — Edit an existing product.  done
+- `DELETE /api/products/:id` — Remove a product.      done
+
+---
+
+### 📦 Order APIs
+
+#### 🧑‍💼 Buyer Access
+- `POST /api/orders` — Place a new order.
+- `GET /api/orders/:id` — View order details.
+
+#### 🔐 Admin Only
+- `GET /api/orders` — View all orders.      done
+- `PUT /api/orders/:id` — Update order status.  
